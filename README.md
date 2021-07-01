@@ -1,3 +1,4 @@
+https://clone-f5b6a.web.app/
 <h1>Amazon Clone App</h1>
 
 This is an E-Commerce website clone of Amazon Shopping site. This was created using React JS.
@@ -9,4 +10,3 @@ Features :
 3. Subtotal component with total amount of things in basket
 4. User Login and Authentication
 
-https://clone-f5b6a.web.app/
